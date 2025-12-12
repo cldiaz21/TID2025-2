@@ -2,7 +2,7 @@
 
 Proyecto de Electropermeabilización Celular usando Formulación MTF (Multiple Traces Formulation)
 
-## 📁 Estructura del Repositorio
+## Estructura del Repositorio
 
 ```
 TID2025-2-repo/
@@ -16,7 +16,7 @@ TID2025-2-repo/
     └── PROYECTO_COMPLETADO.md              # Resumen del proyecto
 ```
 
-## 🚀 Inicio Rápido
+## Inicio Rápido
 
 ### Parte 2: Implementación Completa
 
@@ -27,24 +27,20 @@ python verify_setup.py
 jupyter notebook e2.mtf_time_coupled_Kavian.ipynb
 ```
 
-Para más detalles, consulta:
-- [parte2/README.md](parte2/README.md) - Documentación completa
-- [parte2/GUIA_RAPIDA.md](parte2/GUIA_RAPIDA.md) - Guía de inicio en 5 minutos
-
-## 📚 Descripción
+## Descripción
 
 Este proyecto implementa simulaciones de electropermeabilización celular basadas en el modelo de Kavian et al. utilizando la formulación de trazas múltiples (MTF) con acoplamiento temporal.
 
 ### Características Principales
 
-- ✅ Autocontenido: Todos los módulos necesarios incluidos
-- ✅ Documentación completa en español
-- ✅ Script de verificación automática
-- ✅ Tres tipos de excitación: constante, fuente puntual, lineal-z
-- ✅ Visualización 2D y 3D de resultados
-- ✅ Análisis SVD opcional
+- Autocontenido: Todos los módulos necesarios incluidos
+- Documentación completa en español
+- Script de verificación automática
+- Tres tipos de excitación: constante, fuente puntual, lineal-z
+- Visualización 2D y 3D de resultados
+- Análisis SVD opcional
 
-## 📖 Referencias
+## Referencias
 
 **Modelo y Formulación:**
 > Cell Electropermeabilization Modeling via Multiple Traces Formulation and Time Semi-Implicit Coupling
@@ -56,10 +52,8 @@ Este proyecto implementa simulaciones de electropermeabilización celular basada
 > "Classical electropermeabilization modeling at the cell scale"
 > Journal of Mathematical Biology, 68(1-2), 235-265.
 
-## 👥 Autores
-
+##  Autores
+Isidora Gajardo Weason
+Claudio Díaz Consuegra
 Proyecto TID2025-2
 
-## 📄 Licencia
-
-[Especifica tu licencia aquí]
